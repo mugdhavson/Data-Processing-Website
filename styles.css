@@ -1,0 +1,46 @@
+/* 
+
+The one style sheet for Quotations 1
+
+Authors: Rick Mercer and Mugdha Sonawane
+
+*/
+.container {
+	vertical-align: text-top;
+	border: 1px #D3D3D3 solid;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 8px;
+	font-size: 15pt;	
+	box-shadow: 2px 2px #7f7f7f;
+}
+
+.author {
+	font-size: 15pt;
+}
+
+.quote {	
+	width: 500px;
+	height: 100px;
+	
+}
+
+.containerAdd {
+	vertical-align: text-top;
+	border: 1px #D3D3D3 solid;
+	padding: 5px;
+	margin: 8px;
+	font-size: 15pt;	
+	box-shadow: 2px 2px #7f7f7f;
+	width: 37%;
+}
+
+.containerReg {
+	vertical-align: text-top;
+	border: 1px #D3D3D3 solid;
+	padding: 10px;
+	margin: 8px;
+	font-size: 15pt;	
+	box-shadow: 2px 2px #7f7f7f;
+	width: 12%;
+}
